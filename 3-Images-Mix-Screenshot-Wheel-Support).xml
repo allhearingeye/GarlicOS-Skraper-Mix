@@ -1,0 +1,18 @@
+﻿<ImageComposition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd">
+  <Information Author="allhearingeye" Description="3 Image Mix (Screenshot + Wheel + Support) for RG35xx (GarlicOS)" LongName="Screenshot + Wheel + Support" ShortName="Screenshot + Wheel + Support"></Information>
+  <Viewport Color="#00000000" Height="480" Width="640"></Viewport>
+  <Drawings>
+    <Item Type="Screenshot">
+      <Display Anchor="BottomRight" Antialiasing="None" Height="79%" KeepRatio="true" Width="100%" X="100%" Y="89%"></Display>
+    </Item>
+    <Item LocalFilePath="BlackGradient.png" Type="LocalFile">
+      <Display Anchor="VCenterHCenter" X="50%" Y="50%"></Display>
+    </Item>
+    <Item Type="Wheel">
+      <Display Anchor="TopHCenter" Antialiasing="High" Height="32%" KeepRatio="true" Width="32%" X="50%" Y="4%"></Display>
+    </Item>
+    <Item Type="Support">
+      <Display Anchor="BottomRight" Antialiasing="High" Height="35%" KeepRatio="true" Width="35%" X="99.5%" Y="88%"></Display>
+    </Item>
+  </Drawings>
+</ImageComposition>
