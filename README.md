@@ -15,7 +15,7 @@ User Provided Mixes with black gradient for RG35xx (GarlicOS)
 # Screenshots
 
 <details>
-  <summary>3 Images Mix Screenshot Wheel Box 2</summary>
+  <summary>3 Images Mix Screenshot Wheel Box 2D</summary>
 
 ![alt text](https://github.com/allhearingeye/GarlicOS-Skraper-Mix/blob/main/Screenshots/3-Images-Mix-Screenshot-Wheel-Box2DFront-01.png)
 ![alt text](https://github.com/allhearingeye/GarlicOS-Skraper-Mix/blob/main/Screenshots/3-Images-Mix-Screenshot-Wheel-Box2DFront-02.png)
