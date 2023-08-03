@@ -3,7 +3,7 @@ User Provided Mixes with black gradient for RG35xx (GarlicOS)
 
 # Instructions
 1. Download [latest release](https://github.com/allhearingeye/GarlicOS-Skraper-Mix/releases/latest) or clone repo
-2. Install [Skraper](https://www.skraper.net/) (A detailed guide on setting up Scraper can be found [here](https://www.youtube.com/watch?v=RSY6aclv4k4))
+2. Install [Skraper](https://www.skraper.net/) (A detailed guide on setting up Skraper can be found [here](https://www.youtube.com/watch?v=RSY6aclv4k4))
 3. On Media tab set `User provided mix` and select prefered `.xml`
 4. Run the scraping
 5. Edit `CFW/skin/settings.json`:
